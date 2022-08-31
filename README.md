@@ -1,7 +1,5 @@
 # Pinteresting
 
-One month pintrest clone
+pintrest clone
 
 by Christopher Johnson
-
-Onemonth.com
